@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Librarian.h" />
     <ClInclude Include="Person.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Librarian.cpp" />
     <ClCompile Include="Person.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
